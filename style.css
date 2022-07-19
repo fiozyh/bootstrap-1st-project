@@ -1,0 +1,88 @@
+html{
+    scroll-behavior: smooth;
+}
+.navbar {
+    background-color: rgb(48, 58, 82);
+}
+
+/* start of the home page */
+.fluid {
+    background-color: #1ABC9C;
+    min-height: 100vh;
+    padding-top: 30%;
+}
+
+.img-1 {
+    height: 300px;
+    margin-top: 120px;    
+}
+
+.divider-left {
+    background-color: #fff;
+    height: 5px;
+    width: 120px;
+    border-radius: 5px;
+}
+
+.bi-star-fill {
+    color: #fff;
+    font-size: 35px;
+}
+
+ /* start of the portfolio page */
+.pi {
+    color: #212529;
+}
+
+.divider-right {
+    background-color: #212529;
+    height: 5px;
+    width: 120px;
+    border-radius: 5px;
+}
+
+/* start of the About page */
+.about-page {
+    background-color: #1ABC9C;
+    margin-top: 100px;
+}
+
+.clk-1 {
+    font-style: normal;
+}
+
+ /* start of the contact-me page  */
+#floatingInput {
+    height: 100px;
+    border-bottom: solid rgba(0, 0, 0, 0.188);
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-radius: 0px;
+    border-width: 1px;
+    box-shadow: none;
+    font-size: 25px;
+} 
+
+ /* start of the footer-1  */
+.footer-1 {
+    background-color: rgb(48, 58, 82);
+}
+
+.link-1 {
+    color:  #1abc9c;
+}
+
+.link-1:hover {
+    color: #228f79;
+}
+
+  /* start of the footer-2 */
+.footer-2 {
+    background-color: #000;
+}  
+
+
+
+
+
